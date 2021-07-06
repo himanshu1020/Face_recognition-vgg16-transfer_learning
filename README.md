@@ -1,5 +1,5 @@
 # Face_recognition-vgg16-transfer_learning
-This Is a basic model to recognise multiclass Faces, just to get a basic understanding about CNN and opencv. There are so many better algoriths and models are available in the market which are far more reliable and accurate.
+This Is a basic model to recognise multiclass Faces, just to get a basic understanding about CNN and opencv. There are so many better algorithms and models available in the market which are far more reliable and accurate.
 
 In this project the main thing to learn are:
 
@@ -32,6 +32,6 @@ Face recognition is a method of identifying or verifying the identity of an indi
 
 
 
-OpenCV:
+5.OpenCV:
 
 OpenCV is a huge open-source library for computer vision, machine learning, and image processing. OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, or even the handwriting of a human. When it is integrated with various libraries, such as Numpy which is a highly optimized library for numerical operations, then the number of weapons increases in your Arsenal i.e whatever operations one can do in Numpy can be combined with OpenCV.
