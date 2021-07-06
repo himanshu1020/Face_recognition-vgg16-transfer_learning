@@ -1,5 +1,9 @@
 # Face_recognition-vgg16-transfer_learning
-Convolutional Neural Network(CNN):
+This Is a basic model to recognise multiclass Faces, just to get a basic understanding about CNN and opencv. There are so many better algoriths and models are available in the market which are far more reliable and accurate.
+
+In this project the main thing to learn are:
+
+1.Convolutional Neural Network(CNN):
 
 Convolutional neural network is a class of deep learning methods which has become dominant in various computer vision tasks and is attracting interest across a variety of domains, including radiology.
 Convolutional neural network is composed of multiple building blocks, such as convolution layers, pooling layers, and fully connected layers, and is designed to automatically and adaptively learn spatial hierarchies of features through a backpropagation algorithm.
@@ -7,14 +11,14 @@ Convolutional neural network is composed of multiple building blocks, such as co
 
 
 
-Transfer Learning:
+2.Transfer Learning:
 
 used in machine learning, is the reuse of a pre-trained model on a new problem. In transfer learning, a machine exploits the knowledge gained from a previous task to improve generalization about another. For example, in training a classifier to predict whether an image contains food, you could use the knowledge it gained during training to recognize drinks.
 
 
 
 
-VGG16:
+3.VGG16:
 
 VGG-16 is a convolutional neural network that is 16 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database [1]. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 224-by-224.
 
@@ -22,7 +26,7 @@ VGG-16 is a convolutional neural network that is 16 layers deep. You can load a 
 
 
 
-Face Recognition:
+4.Face Recognition:
 
 Face recognition is a method of identifying or verifying the identity of an individual using their face. Face recognition systems can be used to identify people in photos, video, or in real-time. 
 
